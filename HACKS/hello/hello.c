@@ -1,7 +1,7 @@
 /**
  * Author: Stephanny Velasquez
  *         svelasquez4@huskers.unl.edu
- * Date: 2021/08/27
+ * Date: 2021/08/27. 
  *
  * Prints my name
  *
