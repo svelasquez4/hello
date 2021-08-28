@@ -107,3 +107,8 @@ git rm --cached hello
 -f
 git commit -m 'collab commit'
 git push -u origin master
+git add --all
+git commit -m 'collab hack 1 commit'
+git remote add origin https://github.com/login/hello.git
+git remote add origin https://github.com/svelasquez4.git
+git push -u origin master
