@@ -54,3 +54,51 @@ git config unser.name "Stephanny Velasquez"
 git add --all
 git commit -m 'inital commit'
 git config --global user.name "Stephanny Velasquez" 
+git add --all
+git commit -m 'inital commit'
+git remote add origin
+git remote add origin https://githun.com/svelasquez4/hello
+git push -u origin master
+git remote add origin https://github.com/svelasquez4/hello
+git push -u origin master
+git remote remove origin htts://githun.com/svelasquez4/hello
+git push -u origin master
+git remote rm origin
+git remote add origin https://github.com/svelasquez4/hello
+git push -u origin master
+git add .gitignore
+gcc hello.c
+./a.out
+git add .gitignore
+git commit -m 'add git ignore file'
+git push -u origin master
+gcc hello.c
+./a.out
+git status
+git diff hello.c
+git status
+git add hallo.c
+git add hello.c
+git status
+git diff hello.c
+git status
+gcc hello.c
+a.out
+./a.out
+git status
+git diff hello.c
+git add hello.c
+git commit -m 'add major to the output'
+git push -u origin master
+git clone https://github.com/tnaguyen/hello
+ls
+gcc hello.c
+git add hello.c
+git commit -m "added partner name and major'
+git push -u origin master
+
+
+
+
+end
+
