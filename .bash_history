@@ -102,3 +102,8 @@ git push -u origin master
 
 end
 
+git add --all
+git rm --cached hello
+-f
+git commit -m 'collab commit'
+git push -u origin master
